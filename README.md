@@ -82,8 +82,8 @@
 
 ### 📈 กิจกรรมล่าสุดบน GitHub (Latest GitHub Activity)
 
-<a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react&hide_border=true" alt="GitHub Activity Graph">
+<a href="https://github.com/[Methaporn Limrostham]">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Methaporn Limrostham]&theme=react&hide_border=true" alt="GitHub Activity Graph">
 </a>
 
 ---
@@ -91,12 +91,10 @@
 ### 👋 เชื่อมต่อกับผม (Connect with Me)
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/[your-twitter-username]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/[your-facebook-username]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/[your-instagram-username]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="[ลิงก์เว็บไซต์ส่วนตัว/Portfolio ของคุณ]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:[your-email-address]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/methaporn.limrosthum" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/antz._507" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="[ลิงก์เว็บไซต์ส่วนตัว/Portfolio]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:pedza507@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
