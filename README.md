@@ -113,7 +113,7 @@
 ### 💖 ขอบคุณที่เข้ามาเยี่ยมชม! (Thanks for Visiting!)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Methaporn Limrostham&color=blueviolet" alt="Profile views">
 </p>
 
 ---
