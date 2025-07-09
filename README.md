@@ -45,9 +45,9 @@
 ### 🔥 สถิติ GitHub ของผม (My GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedzA507&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MethapornANT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedzA507&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MethapornANT&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -80,8 +80,8 @@
 
 ### 📈 กิจกรรมล่าสุดบน GitHub (Latest GitHub Activity)
 
-<a href="https://github.com/[PedzA507]">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[PedzA507]&theme=react&hide_border=true" alt="GitHub Activity Graph">
+<a href="https://github.com/MethapornANT">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MethapornANT&theme=react&hide_border=true" alt="GitHub Activity Graph">
 </a>
 
 ---
