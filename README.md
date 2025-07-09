@@ -47,9 +47,9 @@
 ### 🔥 สถิติ GitHub ของผม (My GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Methaporn Limrostham&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedzA507&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methaporn Limrostham&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedzA507&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -82,8 +82,8 @@
 
 ### 📈 กิจกรรมล่าสุดบน GitHub (Latest GitHub Activity)
 
-<a href="https://github.com/[Methaporn Limrostham]">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Methaporn Limrostham]&theme=react&hide_border=true" alt="GitHub Activity Graph">
+<a href="https://github.com/[PedzA507]">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[PedzA507]&theme=react&hide_border=true" alt="GitHub Activity Graph">
 </a>
 
 ---
@@ -102,7 +102,7 @@
 ### 💖 ขอบคุณที่เข้ามาเยี่ยมชม! (Thanks for Visiting!)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Methaporn Limrostham&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=PedzA507&color=blueviolet" alt="Profile views">
 </p>
 
 ---
