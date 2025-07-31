@@ -16,7 +16,7 @@
 - 🌱 กำลังพัฒนาทักษะในด้าน: **[ใส่ทักษะที่คุณกำลังพัฒนา เช่น "Machine Learning", "Cloud Computing"]**
 - 👯 กำลังมองหาความร่วมมือในโปรเจกต์: ....
 - 💬 ถามอะไรก็ได้เกี่ยวกับ: "JavaScript ,Python"
-- 📫 ติดต่อผมได้ที่: "pedza507@gmail.com"
+- 📫 ติดต่อผมได้ที่: "MethapornANT@gmail.com"
 - 😄 เพศ: "ชาย"
 - ⚡ อายุ: "22 ปี"
 
@@ -92,7 +92,7 @@
   <a href="https://www.facebook.com/methaporn.limrosthum" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.instagram.com/antz._507" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="[ลิงก์เว็บไซต์ส่วนตัว/Portfolio]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:pedza507@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:MethapornANT@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ### 💖 ขอบคุณที่เข้ามาเยี่ยมชม! (Thanks for Visiting!)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedzA507&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=MethapornANT&color=blueviolet" alt="Profile views">
 </p>
 
 ---
