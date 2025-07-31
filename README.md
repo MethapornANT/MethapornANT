@@ -61,7 +61,7 @@
 <p align="center">
   <img src="[ลิงก์รูปภาพ/GIF ของโปรเจกต์ #1]" alt="Project 1 Screenshot" width="500"/>
   <br>
-  <a href="[ลิงก์ Repository ของโปรเจกต์ #1]" target="_blank">🔗 Repository</a> | <a href="[[ลิงก์ Live Demo ของโปรเจกต์ #1 (ถ้ามี)]](https://github.com/MethapornANT/Finlove-Node.git)" target="_blank">🌐 Live Demo</a>
+  <a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🔗 Repository</a> | <a href="[https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🌐 Live Demo</a>
 </p>
 
 <br>
