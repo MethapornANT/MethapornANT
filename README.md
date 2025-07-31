@@ -59,21 +59,11 @@
   เป็นแอพที่ใช้สำหรับหาคู่ โดยใครที่มีสถานะโสดและอยากหาคู่รักที่จริงใจ หรือแม้แต่เพื่อนคุยแก้เหงาก็สามารถใช้แอพของเราได้ แอพของเราเปิดกว้างและรองรับเพศที่หลากหลาย คุณสามารถพบกับคู่ของคุณได้โดยไม่เป็นการรบกวนเพศที่ไม่เกี่ยวข้อง
 </p>
 <p align="center">
-  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/HOME.png" alt="Project 1 Screenshot" width="500"/>
-  <br>
-  <a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🔗 Repository</a> | <a href="[https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🌐 Live Demo</a>
-</p>
-
+<img src="https://github.com/MethapornANT/PicFinlove/blob/main/Login.png" width="150"/>
+<img src="https://github.com/MethapornANT/PicFinlove/blob/main/HOME.png" width="150"/>
+<img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150"/>
 <br>
-
-#### ✨ Bestpick
-<p>
-  เป็นแอพสำหรับรีวิวสินค้าที่ตอนเองเคยใช้มา บางคนอาจจะเคยซื้อของมาแล้วรีบรีวิวไป แต่หลังจากใช้ไปซักพักก็มีความรู้สึกแตกต่างออกไปแต่ก็ไปแก้ไขอะไรไม่ได้แล้ว หรืออาจจะแค่ลืมกลับมาแก้ไขรีวิว นี่คือพื้นที่สำหรับให้ทุกคนได้โพสต์สินค้าที่คุณเคยใช้ให้เพื่อนๆได้รับรู้ และแบ่งปันประสบการณ์กับเพื่อนๆ
-</p>
-<p align="center">
-  <img src="[ลิงก์รูปภาพ/GIF ของโปรเจกต์ #2]" alt="Project 2 Screenshot" width="500"/>
-  <br>
-  <a href="[ลิงก์ Repository ของโปรเจกต์ #2]" target="_blank">🔗 Repository</a> | <a href="https://github.com/MethapornANT/BestPickAFS.git" target="_blank">🌐 Live Demo</a>
+<a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🔗 Repository</a> | <a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🌐 Live Demo</a>
 </p>
 
 ---
