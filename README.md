@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.RAJqK1T1hMhU3/giphy.gif" width="60" alt="Hi" />
+  <img src="https://github.com/MethapornANT/GojoGif/blob/main/228136787949a85c103a630c753726aa.gif" width="60" alt="Hi" />
   <h1>สวัสดีครับ! ยินดีต้อนรับสู่โปรไฟล์ของผม ✨</h1>
   <p>
     ผมเมธาพร ลิ้มรสธรรม เป็นนักศึกษาที่หลงใหลในการสร้างสรรค์สิ่งใหม่ๆที่ผมชอบ และแก้ปัญหาด้วยโค้ด!
