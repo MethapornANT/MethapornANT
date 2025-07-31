@@ -63,9 +63,9 @@
 <img src="https://github.com/MethapornANT/PicBestpick/blob/main/MAIN_SLIDE.jpg" width="150"/>
 <img src="https://github.com/MethapornANT/PicBestpick/blob/main/POPUP_%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%8A%E0%B8%97.jpg" width="150"/>
 <br>
-<a href="https://github.com/MethapornANT/Finlove-Node-Original.git" target="_blank">🔗 Repository</a>
-<a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🔗 Repository</a>
-<a href="https://github.com/MethapornANT/FinloveReact-Original.git" target="_blank">🔗 Repository</a>
+<a href="https://github.com/MethapornANT/Finlove-Node-Original.git" target="_blank">🔗 JavaScript API</a>
+<a href="https://github.com/MethapornANT/FinloveAndroid.git" target="_blank">🔗 AndroidStudio</a>
+<a href="https://github.com/MethapornANT/FinloveReact-Original.git" target="_blank">🔗 React WEB</a>
 </p>
 
 ---
@@ -81,9 +81,9 @@
 <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Android%20Compact%20-%201.png" width="150"/>
 <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150"/>
 <br>
-<a href="https://github.com/MethapornANT/BestPickServer.git" target="_blank">🔗 Repository</a>
-<a href="https://github.com/MethapornANT/BestpickAndroid.git" target="_blank">🔗 Repository</a> 
-<a href="https://github.com/MethapornANT/BestpickWeb.git" target="_blank">🔗 Repository</a> 
+<a href="https://github.com/MethapornANT/BestPickServer.git" target="_blank">🔗 JavaScript API</a>
+<a href="https://github.com/MethapornANT/BestpickAndroid.git" target="_blank">🔗 AndroidStudio</a> 
+<a href="https://github.com/MethapornANT/BestpickWeb.git" target="_blank">🔗 React WEB</a> 
 </p>
 
 ---
