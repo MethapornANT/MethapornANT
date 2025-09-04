@@ -74,28 +74,13 @@
 <p>
   เป็นแอพที่ใช้าำหรับให้ทุกคนเข้ามารีวิวสินค้าที่ตัวเองใช้ ได้เข้ามาแบ่งปันประสบการณ์ทั้งดีและแย่ รวมถึงมีระบบการพูดคุย และการลงโฆษณา
 </p>
-<style>
-  .image-gallery {
-    display: flex; 
-    justify-content: center;
-    gap: 10px;
-  }
-
-  .image-gallery img {
-    height: 917px; /* กำหนดความสูงที่ต้องการ */
-    width: 150px; /* กำหนดความกว้างที่ต้องการ */
-    object-fit: cover; /* สำคัญ! ทำให้รูปภาพเติมเต็มพื้นที่และ Crop ส่วนเกิน */
-    /* ถ้าภาพมีขนาดเล็กกว่า 150x917 จะถูกขยายให้เต็ม และถ้าใหญ่กว่าจะถูก Crop */
-  }
-</style>
-
-<div class="image-gallery">
-  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Login.png"/>
-  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Android%20Compact%20-%201.png"/>
-  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png"/>
-  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOMEPAGE.png"/>
-  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png"/>
-</div>
+<p align="center">
+  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Login.png" width="150" height="917" />
+  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Android%20Compact%20-%201.png" width="150" height="917" />
+  <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150" height="917" />
+  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOMEPAGE.png" width="150" height="917" />
+  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png" width="150" height="917" />
+</p>
 <br>
 <a href="https://github.com/MethapornANT/BestPickServer.git" target="_blank">🔗 JavaScript API</a>
 <a href="https://github.com/MethapornANT/BestpickAndroid.git" target="_blank">🔗 AndroidStudio</a> 
