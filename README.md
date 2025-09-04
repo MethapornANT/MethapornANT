@@ -80,7 +80,6 @@
   <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150" height="917" />
   <img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOME2.png" width="150" height="917" />
   <img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png" width="150" height="917" />
-</p>
 <br>
 <a href="https://github.com/MethapornANT/BestPickServer.git" target="_blank">🔗 JavaScript API</a>
 <a href="https://github.com/MethapornANT/BestpickAndroid.git" target="_blank">🔗 AndroidStudio</a> 
