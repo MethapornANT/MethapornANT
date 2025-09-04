@@ -78,7 +78,7 @@
   <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Login.png" width="150" height="917" />
   <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Android%20Compact%20-%201.png" width="150" height="917" />
   <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150" height="917" />
-  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOMEPAGE.png" width="150" height="917" />
+  <img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOME2.png" width="150" height="917" />
   <img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png" width="150" height="917" />
 </p>
 <br>
