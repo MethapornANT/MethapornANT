@@ -78,8 +78,8 @@
 <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Login.png" width="150"/>
 <img src="https://github.com/MethapornANT/PicFinlove/blob/main/Android%20Compact%20-%201.png" width="150"/>
 <img src="https://github.com/MethapornANT/PicFinlove/blob/main/in%20Chat.png" width="150"/>
-<img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOMEPAGE.png" width="150"/>
-<img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png" width="150"/>
+<img src="https://github.com/MethapornANT/PicBestpick/blob/main/HOMEPAGE.png" height="917" width="150"/>
+<img src="https://github.com/MethapornANT/PicBestpick/blob/main/Android%20Compact%20-%205.png" height="917" width="150"/>
 <br>
 <a href="https://github.com/MethapornANT/BestPickServer.git" target="_blank">🔗 JavaScript API</a>
 <a href="https://github.com/MethapornANT/BestpickAndroid.git" target="_blank">🔗 AndroidStudio</a> 
